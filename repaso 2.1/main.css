@@ -1,0 +1,44 @@
+body {
+  margin: 0 0;
+}
+
+.div {
+  background-color: yellow;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.div2 {
+  background-color: red;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.face {
+  font-size: 200px;
+}
+
+.selectFace {
+  height: 30px;
+  width: 80px;
+  padding-left: 10px;
+  border-radius: 7px;
+}
+
+.form_btn {
+  height: 30px;
+  width: 80px;
+  padding-left: 10px;
+  border-radius: 7px;
+  border-style: none;
+  background-color: blue;
+  color: white;
+}
